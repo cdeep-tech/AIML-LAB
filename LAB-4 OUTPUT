@@ -1,0 +1,82 @@
+0     True
+1     True
+2     True
+3     True
+4     True
+5     True
+6     True
+7     True
+8     True
+9     True
+10    True
+11    True
+12    True
+13    True
+Name: play, dtype: bool
+
+Tree but Here it is in Word Forms
+x[0] <= 0.5
+
+entropy = 0.94 samples bles = 14
+
+value = [5, 9]
+
+entropy = 0.0 samples = 4
+
+value = [0, 4]
+
+x[0] <= 1.5 entropy 0.722
+
+samples 5 value = [4, 1]
+
+x[3] <= 0.5
+
+entropy = 1.0 samples = 2
+
+value = [1.1]
+
+entropy = 0.0 samples = 1
+
+value = [1, 0]
+
+x[2] <= 0.5
+
+entropy = 1.0
+
+samples = 10
+
+value [5.5]
+
+entropy = 0.0
+
+samples = 3 value=[3, 01
+
+entropy = 0.0
+
+samples = 1
+
+value = [0, 1]
+
+x[3] <= 0.5
+
+entropy 0.722
+
+samples 5 value = [1, 4]
+
+x[1] <= 1.0
+
+entropy = 10 samples = 2
+
+value = [1. 11
+
+entropy = 0.0 samples = 1
+
+value=[1, 0)
+
+entropy = 0.0
+
+samples = 3 value = [0. 31
+
+entropy = 0.0
+
+samples = 1 value = [0, 1]
